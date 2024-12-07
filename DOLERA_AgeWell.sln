@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DOLERA_AgeWell", "DOLERA_AgeWell.csproj", "{A552D5DB-2438-4B98-9201-58C5EA07EB09}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A552D5DB-2438-4B98-9201-58C5EA07EB09}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A552D5DB-2438-4B98-9201-58C5EA07EB09}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A552D5DB-2438-4B98-9201-58C5EA07EB09}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A552D5DB-2438-4B98-9201-58C5EA07EB09}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {84334682-1996-4B17-A58C-58801713A3E0}
+	EndGlobalSection
+EndGlobal
