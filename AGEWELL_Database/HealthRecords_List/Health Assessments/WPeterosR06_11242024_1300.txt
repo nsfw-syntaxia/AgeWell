@@ -1,0 +1,14 @@
+
+	Date: 11/24/2024
+	Time: 13:00
+
+	Height: 1.57m
+	Weight: 61kg
+	BMI: 24.75 (Normal)
+
+	Body Temperature: 37°C (Normal)
+	Pulse: 45 bpm (Bradycardia)
+	Respiratory Rate: 23 breaths per minute (Tachypnea)
+	Blood Oxygen: 89% (Hypoxemia)
+	Blood Pressure: 120/80 mmHg (Prehypertension)
+	Blood Glucose Level: 101 mg/dL (Normal)

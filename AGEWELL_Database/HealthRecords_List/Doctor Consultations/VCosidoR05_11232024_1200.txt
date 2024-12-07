@@ -1,0 +1,36 @@
+
+	Date: 11/23/2024
+	Time: 12:00
+
+	Status: Outpatient Care
+	Physician: Dr. Rexi Dohera
+	Hospital: Dohera Hospital
+
+	Medical Conditions
+	> Anemia
+	> Asthma
+
+	Symptoms
+	> Dry cough
+	> Colds
+	> Headache
+
+	Examination: CBC
+	Result: Very low RBC
+
+	Examination: Urinalysis
+	Result: Clear
+
+	Examination: Fecalysis
+	Result: Slightly acidic
+
+	Diagnosis: Acute viral infection
+
+	Prescribed Medications
+	> Tamiflu	(75mg, 2x a day)
+	> Relenza	(5mg, 3x a day)
+
+	Notes
+	> Need further examinations.
+	> No issues in urinary system.
+	> Mild gastrointestinal irritation.

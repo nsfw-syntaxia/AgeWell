@@ -1,0 +1,10 @@
+
+								Username:		SReyboyC01
+								Password:		shanii11
+
+								Name:			Shan Christian  Reyboy
+								Specialization:		C# Programming
+								Age:			21
+								Sex:			Male
+								Email Address:		shani@med.ph
+								Contact Number:		09938158402

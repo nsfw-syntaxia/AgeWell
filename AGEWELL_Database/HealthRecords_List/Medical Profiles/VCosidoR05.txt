@@ -1,0 +1,7 @@
+
+	Name:		Vladimer Jary Cosido
+	Date of Birth:	05/06/1981
+	Age:		43
+	Sex:		Male
+	Contact Number:	09150758293
+	Blood Type:	A+
